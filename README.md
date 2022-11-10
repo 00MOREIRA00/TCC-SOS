@@ -1,6 +1,6 @@
 # TCC-SOS
 
-O Repositório é destinado ao aplicativo mobile Screening mosulo SOS que é uma ferramenta desenvolvida no TCC, destinado a facilitar o processo de resgate de pacientes necessitados através de ambulancias. Grantindo assim uma ferramente agil de abertura de ocorrencias, facilitando assim a comunicação dos socorristas com a central de comunicação e com as unidades de atendimento especializadas.
+O Repositório é destinado ao aplicativo mobile Screening modulo SOS que é uma ferramenta desenvolvida no TCC, destinado a facilitar o processo de resgate de pacientes necessitados através de ambulâncias. Garantindo assim uma ferramenta ágil de abertura de ocorrências, facilitando assim a comunicação dos socorristas com a central de comunicação e com as unidades de atendimento especializadas. 
 
 ### Triagem de Manchester
 O protocolo de Manchester que tem como objetivo a seleção de pacientes se baseando no nível de urgência utilizando um código de cores. Através das cores, os profissionais de acolhimento podem identificar os casos que necessitam de atendimento emergencial, separando-os daqueles que podem aguardar para serem atendidos depois. Esse protocolo permite que os profissionais possam realizar suas funções de maneira mais eficiente, concentrando os esforços da equipe aos casos que necessitam de maior atenção, aumentando a efetividade no atendimento aos pacientes, visando atender com qualidade o maior público possível, de acordo com a capacidade de atendimento que a equipe de emergência pode oferecer.
@@ -10,9 +10,10 @@ O protocolo de Manchester que tem como objetivo a seleção de pacientes se base
 </div>
 
 ### Sobre
-Através da aplicação o profissional destinado a realizar o resgate pode registrar ocorrências e realizar o processo de triagem inicial e passar toda a informação para a unidade de realizara os proceddimentos necessários.
+Através da aplicação o profissional destinado a realizar o resgate pode registrar ocorrências e realizar o processo de triagem inicial e passar toda a informação para a unidade de realizara os procedimentos necessários.
 
-Aquipe através do aplicativo podera realizar diversas funções como avisar a base a chegada e saida do local do acidente, cadastrar feridos que necessitam de atendimento, realziar triagem dos pacientes enviadno as informações para as unidades, selecionar o Hopsital que recebera o paciente através de estatisticas de quantidades de vagas e através do aplicativo ser direcionado para o GPS que ira indicar o melhor percurso.
+A equipe através do aplicativo poderá realizar diversas funções como avisar a base a chegada e saída do local do acidente, cadastrar feridos que necessitam de atendimento, realizar triagem dos pacientes enviando as informações para as unidades, selecionar o Hospital que recebera o paciente através de estatísticas de quantidades de vagas e através do aplicativo ser direcionado para o GPS que ira indicar o melhor percurso.
+
 <br>
 <br>
 
@@ -51,7 +52,7 @@ Processo de seleção do Hospital que ira receber o acidentado
 <img src = "https://user-images.githubusercontent.com/85044936/201216386-0c310c0e-feb8-4bc7-a7b3-dcf7d33f2c37.png"/>
 </div>
 <div align = "center">
-Processo de redirecionemento para o Hospital selecionado pelo socorrista
+Processo de redirecionamento para o Hospital selecionado pelo socorrista
 </div>
 
 
